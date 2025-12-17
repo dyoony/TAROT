@@ -4,10 +4,12 @@ This repository contains the official PyTorch implementation of **TAROT**, the a
 <br>
 ["TAROT: Towards Essentially Domain-Invariant Robustness
 with Theoretical Justification"](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_TAROT_Towards_Essentially_Domain-Invariant_Robustness_with_Theoretical_Justification_CVPR_2025_paper.pdf)
+with supplementary at (https://arxiv.org/abs/2505.06580).
 <br>
 by *Dongyoon Yang, Jihu Lee, and Yongdai Kim.*
 
 The paper was published in CVPR 2025. 
+
 
 
 ## Robustly Pretrained Model
