@@ -13,6 +13,6 @@ The paper was published in CVPR 2025.
 ## Robustly Pretrained Model
 You can get robustly pretrained models at https://huggingface.co/madrylab/robust-imagenet-models.
 
-## Quickstart
+## Run Example
 * python3 tarot.py data/officehome -d OfficeHome -s Ar -t Cl -a resnet50 --eps 0.06274509 --step_size 0.01568 --pre_eps 1.0 --trade-off 0.5 --log logs/tarot/officehome_Ar2Cl_pre-eps_1.0_eps_16_trade-off_0.5 --gpu 0;
 * python3 tarot.py data/officehome -d OfficeHome -s Ar -t Cl -a resnet50 --eps 0.06274509 --step_size 0.01568 --pre_eps 1.0 --trade-off 0.5 --log logs/tarot/officehome_Ar2Cl_pre-eps_1.0_eps_16_trade-off_0.5 --gpu 0 --phase test;
